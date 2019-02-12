@@ -5,14 +5,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/johonz/fis3-postprocessor-href-locate.git"
+    "url": "https://github.com/johonz/fis3-postprocessor-href-locate-z.git"
   },
   "keywords": [
     "fis", "fis3", "uri", "href"
   ],
   "author": "johonz",
   "license": "MIT",
-  "homepage": "https://github.com/johonz/fis3-postprocessor-href-locate",
+  "homepage": "https://github.com/johonz/fis3-postprocessor-href-locate-z",
   "devDependencies": {
   }
 }
