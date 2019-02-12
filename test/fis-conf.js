@@ -3,6 +3,6 @@ fis.match('*.html',{
 })
 
 fis.match('*.{tpl,html}', {
-    postprocessor: fis.plugin('href-locate',{})
+    postprocessor: fis.plugin('href-locate-z',{})
 })
 

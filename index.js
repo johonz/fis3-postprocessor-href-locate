@@ -6,7 +6,7 @@ module.exports = function(content) {
     return content.replace(re, function(all, prefix, quote, value, query, queryInner, postfix) {
         var f = fis.uri(value)
         if(f.file) {
-            all = prefix + 'href=' + quote + f.file.release + query + quote + postfix
+            all = prefix + 'href=' + quote + f.file.domain + f.file.release + query + quote + postfix
         }
         return  all
     })

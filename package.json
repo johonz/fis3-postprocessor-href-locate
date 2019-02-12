@@ -1,21 +1,18 @@
 {
-  "name": "fis3-postprocessor-href-locate",
+  "name": "fis3-postprocessor-href-locate-z",
   "version": "0.1.1",
-  "description": "给类html文件中的href定位资源",
+  "description": "基于fis3-postprocessor-href-locate修改，给类html文件中的href定位资源，支持domain设置",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sapjax/fis3-postprocessor-href-locate.git"
+    "url": "https://github.com/johonz/fis3-postprocessor-href-locate.git"
   },
   "keywords": [
     "fis", "fis3", "uri", "href"
   ],
-  "author": "sapjax",
+  "author": "johonz",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/sapjax/fis3-postprocessor-href-locate/issues"
-  },
-  "homepage": "https://github.com/sapjax/fis3-postprocessor-href-locate",
+  "homepage": "https://github.com/johonz/fis3-postprocessor-href-locate",
   "devDependencies": {
   }
 }
